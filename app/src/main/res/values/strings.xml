@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">E-Commerce App</string>
+    <string name="rightAddress">"The Right Address \nFor Shopping \nAnyday "</string>
+    <string name="quality">"It is now very easy to reach the \nbest quality among all the \nproducts in the internet!"</string>
+    <string name="start">Start</string>
+    <string name="register">Register</string>
+    <string name="app_logo_name">Kleine</string>
+    <string name="login">Login</string>
+    <string name="loginTitle">Let\'s Login</string>
+    <string name="loginSubTitle">Don\'t have an account?</string>
+    <string name="forgotPassword">Forgot password?</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="registerTitle">Let\'s Register</string>
+    <string name="registerSubTitle">Do you have an account?</string>
+    <string name="forgotPasswordTitle">Reset Password</string>
+    <string name="forgotPasswordSubTitle">Enter your email to recover your password</string>
+    <string name="recover">Recover</string>
+</resources>
