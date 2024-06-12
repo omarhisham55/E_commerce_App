@@ -14,3 +14,6 @@ The app targets people who are looking to buy high quality furniture products fo
 - Coroutines : do some code in the background.
 - view binding : instead of inflating views manually view binding will take care of that.
 - Glide : Catch images and load them in imageView.
+
+### Acknowledgement
+This project includes code inspired by Mohammed Nawas, which can be found at https://github.com/mohammednawas8/kleine.
